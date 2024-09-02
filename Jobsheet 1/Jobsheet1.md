@@ -7,7 +7,7 @@ Fatriya Ibnu Ash shidiqqi <br>
 ###  Soal 1
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta! <br>
 Kode Program <br>
-![alt text](<Screenshot 2024-09-02 093244-1.png>)
+![alt text](<Screenshot 2024-09-02 093244.png>)
 Output <br>
 ![alt text](<Screenshot 2024-09-02 093346-1.png>)
 
