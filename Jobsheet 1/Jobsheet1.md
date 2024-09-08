@@ -20,6 +20,7 @@ Memahami bahasa pemrograman Dart sangat penting sebelum menggunakan framework fl
 ### Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
+### Jawab
 Dart adalah Bahasa pemrograman yang dikembangkan oleh Google, awalnya sebagai alternatif JavaScript.
 
 Dart dipilih karena kemampuannya untuk mengompilasi ke berbagai platform dan mendukung fitur hot reload.
