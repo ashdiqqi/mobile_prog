@@ -48,3 +48,52 @@ tidak terjadi error <br>
 Tambahkan elemen nama dan NIM Anda pada tiap variabel di atas (gifts, nobleGases, mhs1, dan mhs2). Dokumentasikan hasilnya dan buat laporannya!
 ![alt text](image-12.png)
 ![alt text](image-13.png)
+
+## Praktikum 4: Eksperimen Tipe Data List: Spread dan Control-flow Operators
+### Langkah 1:
+Ketik atau salin kode program berikut ke dalam fungsi main().
+![alt text](image-14.png)
+### Langkah 2:
+Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
+![alt text](image-15.png)
+terjadi error karena tidak ada variabel list1 yang terdefinisi, seharusnya variabel list1 diganti list <br>
+![alt text](image-16.png) <br>
+![alt text](image-17.png)
+### Langkah 3:
+Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+![alt text](image-18.png) <br>
+![alt text](image-19.png) <br>
+Apa yang terjadi ? Jika terjadi error, silakan perbaiki. <br>
+Terjadi error karena variabel list1 belum terdefinisi. Seharusnya ditambahkan kode var list1 agar variabel list1 bisa terdefinisi <br>
+![alt text](image-20.png) <br>
+![alt text](image-21.png) <br>
+
+### Langkah 4:
+Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+![alt text](image-22.png) <br>
+Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel promoActive ketika true dan false. <br>
+![alt text](image-23.png) <br>
+Variabel promoActive belum terdefinisi dan tidak ada nilainya sehingga terjadi error <br>
+![alt text](image-24.png) <br>
+![alt text](image-25.png) <br>
+![alt text](image-26.png) <br>
+![alt text](image-27.png) <br>
+
+### Langkah 5:
+Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+![alt text](image-28.png) <br>
+Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel login mempunyai kondisi lain. 
+![alt text](image-29.png) <br>
+Terjadi error karena  variabel login belum terdefinisi dan tidak memiliki nilai <br>
+![alt text](image-30.png) <br>
+![alt text](image-31.png) <br>
+![alt text](image-32.png) <br>
+![alt text](image-33.png) <br>
+
+### Langkah 6:
+Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+![alt text](image-34.png) <br>
+![alt text](image-35.png) <br>
+Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collection For dan dokumentasikan hasilnya. <br>
+Tidak terjadi error <br>
+Manfaat Collection For adalah
