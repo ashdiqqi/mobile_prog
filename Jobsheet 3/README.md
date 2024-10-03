@@ -96,3 +96,16 @@ Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collection For dan dokumentasikan hasilnya. <br>
 Tidak terjadi error <br>
 Manfaat Collection For adalah
+
+
+##  Praktikum 5: Eksperimen Tipe Data Records
+### Langkah 1:
+Ketik atau salin kode program berikut ke dalam fungsi main().
+![alt text](image-36.png) <br>
+### Langkah 2:
+Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
+![alt text](image-37.png) <br>
+### Langkah 3:
+Tambahkan kode program berikut di luar scope void main(), lalu coba eksekusi (Run) kode Anda.
+![alt text](image-38.png)<br>
+Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gunakan fungsi tukar() di dalam main() sehingga tampak jelas proses pertukaran value field di dalam Records.
